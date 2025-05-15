@@ -16,8 +16,8 @@ class _MyWidgetState extends State<SplashScreen> with SingleTickerProviderStateM
   void initState() {
    
     super.initState();
-    Future.delayed(Duration(seconds: 4),() {
-      Navigator.pushReplacementNamed(context, 'home');
+    Future.delayed(const Duration(seconds: 4),() {
+      Navigator.pushReplacementNamed(context, '/scanner');
     },);
   }
 
@@ -27,8 +27,8 @@ class _MyWidgetState extends State<SplashScreen> with SingleTickerProviderStateM
     return Scaffold(
       backgroundColor: const Color(0xFF0F2027), 
       body: Center(child: Container(
-        margin: EdgeInsets.all(24),
-        padding: EdgeInsets.all(24),
+        margin: const EdgeInsets.all(24),
+        padding: const EdgeInsets.all(24),
         decoration: BoxDecoration(
           color: Colors.white.withOpacity(0.1),
           borderRadius: BorderRadius.circular(20),
