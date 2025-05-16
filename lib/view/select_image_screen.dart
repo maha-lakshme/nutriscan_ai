@@ -200,7 +200,7 @@ class _SelectImageScreenState extends State<SelectImageScreen> {
                                   fontSize: _ocrText.isNotEmpty ? 14 : 16,
                                   fontStyle: _ocrText.isNotEmpty ? FontStyle.normal : FontStyle.italic
                                 ),
-                                textAlign: TextAlign.center,
+                                textAlign: TextAlign.left,
                               ),
                             ),
                           ),
