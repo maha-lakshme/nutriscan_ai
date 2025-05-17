@@ -2,8 +2,11 @@
 <div align="center"> 
  <img src="screenshot/screen6.png" alt="Theme Screen" width="200px" />
  <img src="screenshot/screen5.png" alt="Home Screen" width="200px" />
- <img src="screenshot/screen4.png" alt="Home Screen" width="200px" />
- <img src="screenshot/screen1.png" alt="Saved Screen" width="200px" /></div>
+ <img src="screenshot/screen3.png" alt="Home Screen" width="200px" />
+  <img src="screenshot/screen2.png" alt="Saved Screen" width="200px" />
+ <img src="screenshot/screen1.png" alt="Saved Screen" width="200px" />
+
+</div>
 
 NutriScan AI is a Flutter-based mobile application designed to help users understand the nutritional content of food products quickly and easily. By simply taking a photo of a nutrition label or selecting an image from their gallery, users can get AI-powered health advice and insights in their preferred language.
 
