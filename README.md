@@ -3,7 +3,6 @@
  <img src="screenshot/screen6.png" alt="Theme Screen" width="200px" />
  <img src="screenshot/screen5.png" alt="Home Screen" width="200px" />
  <img src="screenshot/screen3.png" alt="Home Screen" width="200px" />
-  <img src="screenshot/screen2.png" alt="Saved Screen" width="200px" />
  <img src="screenshot/screen1.png" alt="Saved Screen" width="200px" />
 
 </div>
